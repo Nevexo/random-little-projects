@@ -1,0 +1,15 @@
+{
+  "name": "device-monitor",
+  "version": "1.0.0",
+  "description": "This project has a very specific use-case, to turn the lights/smart relays on/off when I enter/leave my house.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nevexo",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.14.0",
+    "ping": "^0.2.2"
+  }
+}
